@@ -1,0 +1,23 @@
+[
+  {
+    "materia": "Infra II",
+    "link": "https://digitalhouse.zoom.us/j/9386966775?pwd=UGRySTJsU0g5cTRXM3V4QzFoU204QT09&_x_zm_rtaid=i0T-U5zzTdGRLrVRxdKx4Q.1646229614724.271e29cee69d45025f294d8a8ff0894a&_x_zm_rhtaid=635#",
+    "pass": "aulasDH.52",
+    "dias": [1, 3, 5],
+    "horarios": [1, 1, 1]
+  },
+  {
+    "materia": "Backend I",
+    "link": "https://digitalhouse.zoom.us/j/4260292371?pwd=QnEvaTFIZm5peVRLT2F5VFQ4SzZIQT09&_x_zm_rtaid=_uQ0EQiHT7miAwvcC_jsFQ.1646238671217.feabd5c963f08b38c3aab794807fc3f2&_x_zm_rhtaid=746#",
+    "pass": "aulasDH.40",
+    "dias": [1, 2, 2, 3, 4, 4],
+    "horarios": [2, 1, 2, 2, 2, 3]
+  },
+  {
+    "materia": "Frontend III",
+    "link": "https://digitalhouse.zoom.us/j/6434543399?pwd=RWdYMENtNXhPZVJIZk9ZWm00WERUUT09&_x_zm_rtaid=mryh6gcsRF2IJ1a-MY-Z5g.1646254871439.714e324fc2c11d3c59232701cc1508c7&_x_zm_rhtaid=134#",
+    "pass": "aulasDH.36",
+    "dias": [1, 3, 4],
+    "horarios": [4, 4, 4]
+  }
+]
